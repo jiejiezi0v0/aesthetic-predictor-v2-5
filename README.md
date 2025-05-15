@@ -12,7 +12,7 @@ Unlike V2, **_5.5+_** is considered to be a great aesthetic score.
 
 **You can try Aesthetic Predictor V2.5 at Hugging Face Spaces!**
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/discus0434/aesthetic-predictor-v2-5)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/qwertyuiopasdfg/aesthetic-predictor-v2-5)
 
 ## Installation
 
